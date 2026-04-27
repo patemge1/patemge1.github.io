@@ -1,6 +1,6 @@
 # patemge1.github.io
 Data analytics and software portfolio showcasing SQL, Python, and WMS systems projects.
-# Hi, I'm Patrick Emge 👋
+# Hi, I'm Patrick Emge
 
 Software and analytics professional with experience in warehouse management systems (WMS), enterprise software consulting, and data-driven business solutions. I specialize in SQL-based analysis, system optimization, and translating operational data into actionable insights.
 
