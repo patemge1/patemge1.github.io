@@ -66,6 +66,7 @@ Herndon, VA | Oct 2021 – Sept 2022
 
 ## 📜 Certifications
 
+- Certified Data Scientist Associate
 - Six Sigma Black Belt (CSSBB)
 - Certified ScrumMaster (CSM)
 - Certified Mendix Developer (Rapid & Intermediate)
